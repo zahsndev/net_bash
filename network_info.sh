@@ -1,3 +1,4 @@
+# A program to display your Internet info
 #!/bin/bash
 
 # Display Network interfaces Names.
